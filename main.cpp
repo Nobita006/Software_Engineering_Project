@@ -87,6 +87,7 @@ public:
         writeToFile();
 
         cout << "Marks updated successfully." << endl;
+        cout<<endl;
     }
 
     void deleteStudent() {
