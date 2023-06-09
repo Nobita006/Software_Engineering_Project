@@ -58,7 +58,7 @@ public:
 
             file << name << "," << marks << endl;
 
-            cout << "Enter student name (or 'q' to quit): ";
+             cout << "Enter sTudent name (or 'q' to quit): ";
         }
 
         cout << "Data stored successfully." << endl;
